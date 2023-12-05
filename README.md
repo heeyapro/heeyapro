@@ -1,6 +1,6 @@
 ### DH Kang GitHub
-- https://heeyapro.github.io/ (2022)
-  
+- Github blog : https://heeyapro.github.io/ (2022)
+- contact : Kangdohee1211@naver.com
 ■ Research Interests<br>
 > Network Security<br>
 > In-Vehicle Network (IVN) traffic analysis and Intrusion Detection.<br>
