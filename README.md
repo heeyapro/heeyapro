@@ -1,5 +1,4 @@
 ### DH Kang GitHub
-- Github blog : https://heeyapro.github.io/ (2022)
 - contact : Kangdohee1211@naver.com
   
 ■ Research Interests<br>
