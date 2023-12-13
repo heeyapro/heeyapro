@@ -43,4 +43,4 @@
 
 ■ Other Experiences  <br>
 - Caerang Club Shield (Security) Team Leader (2023)
-- Game to improve awareness of environmental issues, Development of Unity Game (2022)
+- Development of Unity Game to improve awareness of environmental issues (2022)
