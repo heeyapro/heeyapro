@@ -8,7 +8,7 @@
 
 ■ Domestic Conferences <br>
 > - **DH Kang**, YJ Kim, YR Yeon, BI Kwak, "Implementation of Framework for Machine Learning-Based Network Intrusion Detection and Situational Analysis Solutions", CISC-W'23, Korea (Dec. 2023) - Oral<br>
-> - HS Kim, **DH Kang**, BI Kwak, "Sequence and Time Interval-based intrusion detection and attack classification for CAN Bus security", 한국정보보호학회 충청지부학술대회, Cheonan, Korea (Sep. 2023) - Poster<br>
+> - HS Kim, **DH Kang**, BI Kwak, "Sequence and Time Interval-based intrusion detection and attack classification for CAN Bus security", KIISC, Cheonan, Korea (Sep. 2023) - Poster<br>
 > - **DH Kang**, HS Kim, WK Jung, BI Kwak, "Anomaly detection method of IVN using lightweight features based on Autoencoder", JCCI, Yeosu, Korea (Apr. 2023) - Oral<br>
 
 ■ Projects <br>
