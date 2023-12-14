@@ -15,6 +15,7 @@
 - Apprentice-style undergraduate research student project - 자동차 보안 동향 및 취약점 분석, Hallym University, Korea (2023)  <br>
 - Research on Digital Forensic Core Technology of Driving Agent Identification for Autonomous Driving Cars (자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구), National Research Foundation of Korea(한국연구재단 기초연구실, 공동연구), Korea (Jan. 2023 ~ Present)  <br>
 - Software Capstone Design (Automated Security Solution Recommendation Site), Hallym University, Korea / Development of Design and AI (IDS) (Feb. 2023 ~ Jun. 2023)  <br>
+- Nutrition Education & Diagnosis Website, Hallym University / Development of Design & Front-End (Nov. 2022 ~ Dec. 2022) <br>
 - Management Information Capstone Design (shoes multi-shop website), Hallym Polytechnic University, Korea / Development of Design and Front-End (Aug. 2021 ~ Dec. 2021) <br>
 
 ■ Awards <br>
