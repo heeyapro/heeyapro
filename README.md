@@ -43,5 +43,5 @@
 
 ■ Other Experiences  <br>
 - Caerang Club Shield (Security) Team Leader (2023)
-- Nutrition Education & Diagnosis Website, Hallym University / Development of Design & Front-End (Nov. 2022 ~ Dec. 2022) <br>
-- Development of Unity Game to improve awareness of environmental issues (2022)
+- [Nutrition Education & Diagnosis Website](https://github.com/heeyapro/Nutrition-Education-Diagnosis), Hallym University / Development of Design & Front-End (Nov. 2022 ~ Dec. 2022) <br>
+- [Development of Unity Game to improve awareness of environmental issues](https://github.com/heeyapro/Mission) (2022)
