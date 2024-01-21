@@ -25,7 +25,7 @@
 - Certificate of Commendation, Korean Council for University College Education (KCCE) (Feb. 2022) <br>
 - Excellence Prize, Learning Competency Essay Contest, Hallym Polytechnic University (Nov. 2021) <br>
 - Participation prize, Self-Up Program Contest, Hallym Polytechnic University (Dec. 2020) <br>
-- Excellence Prize, 2020 Reading Debate Club, Hallym Polytechnic University (Dec. 2020) <br>
+- Excellence Prize, 2020 Reading Debate Club, Hallym Polytechnic University (Dec. 2020) <br> 
 
 ■ Skills and Techniques  <br>
 
