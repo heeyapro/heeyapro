@@ -42,6 +42,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 
 ■ Other Experiences  <br>
-- Caerang Club Shield (Security) Team Leader (2023)
+- [Caerang Club Shield (Security) Team Leader](https://github.com/heeyapro/Caerang-Team-SHIELD) (2023)
 - [Nutrition Education & Diagnosis Website](https://github.com/heeyapro/Nutrition-Education-Diagnosis), Hallym University / Development of Design & Front-End (Nov. 2022 ~ Dec. 2022) <br>
 - [Development of Unity Game to improve awareness of environmental issues](https://github.com/heeyapro/Mission) (2022)
