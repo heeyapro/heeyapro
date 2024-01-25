@@ -1,6 +1,5 @@
 ### DH Kang GitHub
-- contact : Kangdohee1211@naver.com
-   
+
 ■ Research Interests<br>
 > - Network Security<br>
 > - In-Vehicle Network (IVN) traffic analysis and Intrusion Detection.<br>
