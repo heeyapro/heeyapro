@@ -19,7 +19,7 @@
 ■ Awards <br>
 - Outstanding Paper Award, CISC-W'23, Korea Institute Of Information Security And Cryptology(KIISC) (Dec. 2023) <br>
 - Excellence Prize, Gangwon SW Central University SW Festival, SW Center University Business Unit by Yonsei University MIRAE Campus, Kangwon National University, Hallym University (2023) <br>
-- 3rd Prize, Software Capstone Design, Hallym University (June. 2023) <br>
+- [3rd Prize, Software Capstone Design, Hallym University (June. 2023)](https://github.com/yinneu/signature) <br>
 - 3rd Prize, GitHub Resume Contest Hackathon, Hallym University (Aug. 2022) <br>
 - Certificate of Commendation, Korean Council for University College Education (KCCE) (Feb. 2022) <br> 
 - Excellence Prize, Learning Competency Essay Contest, Hallym Polytechnic University (Nov. 2021) <br>
