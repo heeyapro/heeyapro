@@ -1,6 +1,6 @@
 ### DH Kang GitHub
 
-■ Research Interests<br>
+■ Research Interests<br> 
 > - Network Security<br>
 > - In-Vehicle Network (IVN) traffic analysis and Intrusion Detection.<br>
 > - Driving Pattern Profiling and Anomaly Detection.<br>
