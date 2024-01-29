@@ -11,10 +11,10 @@
 > - **DH Kang**, HS Kim, WK Jung, BI Kwak, "Anomaly detection method of IVN using lightweight features based on Autoencoder", JCCI, (Apr. 2023) - [Paper](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.04.28_Paper%5D%20Anomaly%20detection%20method%20of%20IVN%20using%20lightweight%20features%20based%20on%20Autoencoder.pdf), [Oral](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.04.28_Presentation%5D%20Anomaly%20detection%20method%20of%20IVN%20using%20lightweight%20features%20based%20on%20Autoencoder.pdf)<br>
 
 ■ Projects <br>
-- Apprentice-style undergraduate research student project - 자동차 보안 동향 및 취약점 분석, Hallym University, Korea (2023)  <br>
-- Research on Digital Forensic Core Technology of Driving Agent Identification for Autonomous Driving Cars (자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구), National Research Foundation of Korea(한국연구재단 기초연구실, 공동연구), Korea (2023)  <br>
-- Software Capstone Design (Automated Security Solution Recommendation Site), Hallym University, Korea / Development of Design and AI (IDS) (Feb. 2023 ~ Jun. 2023)  <br>
-- Management Information Capstone Design (shoes multi-shop website), Hallym Polytechnic University, Korea / Development of Design and Front-End (Aug. 2021 ~ Dec. 2021) <br>
+- Apprentice-style undergraduate research student project - 자동차 보안 동향 및 취약점 분석, Hallym University, 2023  <br>
+- Research on Digital Forensic Core Technology of Driving Agent Identification for Autonomous Driving Cars (자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구), National Research Foundation of Korea(한국연구재단 기초연구실, 공동연구), 2023  <br>
+- Software Capstone Design (Automated Security Solution Recommendation Site), Hallym University / Development of Design and AI (IDS) (Feb. 2023 ~ Jun. 2023)  <br>
+- Management Information Capstone Design (shoes multi-shop website), Hallym Polytechnic University / Development of Design and Front-End (Aug. 2021 ~ Dec. 2021) <br>
 
 ■ Awards <br>
 - [Outstanding Paper Award, CISC-W'23, Korea Institute Of Information Security And Cryptology(KIISC)](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.12.02_%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%ED%9A%8C%20%EC%9A%B0%EC%88%98%EB%85%BC%EB%AC%B8%EC%83%81%5D%20Implementation%20of%20Framework%20for%20Machine%20Learning-Based%20Network%20Intrusion%20Detection%20and%20Situational%20Analysis%20Solutions.pdf) (Dec. 2023) <br>
