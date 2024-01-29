@@ -6,9 +6,9 @@
 > - Driving Pattern Profiling and Anomaly Detection.<br>
 
 ■ Domestic Conferences <br>
-> - **DH Kang**, YJ Kim, YR Yeon, BI Kwak, "Implementation of Framework for Machine Learning-Based Network Intrusion Detection and Situational Analysis Solutions", CISC-W'23, Korea (Dec. 2023) - Oral<br>
-> - HS Kim, **DH Kang**, BI Kwak, "Sequence and Time Interval-based intrusion detection and attack classification for CAN Bus security", KIISC, Cheonan, Korea (Sep. 2023) - Poster<br>
-> - **DH Kang**, HS Kim, WK Jung, BI Kwak, "Anomaly detection method of IVN using lightweight features based on Autoencoder", JCCI, Yeosu, Korea (Apr. 2023) - Oral<br>
+> - **DH Kang**, YJ Kim, YR Yeon, BI Kwak, ["Implementation of Framework for Machine Learning-Based Network Intrusion Detection and Situational Analysis Solutions"](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.12.02_Paper%5D%20Implementation%20of%20Framework%20for%20Machine%20Learning-Based%20Network%20Intrusion%20Detection%20and%20Situational%20Analysis%20Solutions.pdf), CISC-W'23, Korea (Dec. 2023) - [Oral](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.12.02_Presentation%5D%20Implementation%20of%20Framework%20for%20Machine%20Learning-Based%20Network%20Intrusion%20Detection%20and%20Situational%20Analysis%20Solutions.pdf)<br>
+> - HS Kim, **DH Kang**, BI Kwak, ["Sequence and Time Interval-based intrusion detection and attack classification for CAN Bus security"](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.09.08_Paper%5D%20Sequence%20and%20Time%20Interval-based%20intrusion%20detection%20and%20attack%20classification%20for%20CAN%20Bus%20security.pdf), KIISC, Cheonan, Korea (Sep. 2023) - [Poster](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.09.08_Poster%5D%20Sequence%20and%20Time%20Interval-based%20intrusion%20detection%20and%20attack%20classification%20for%20CAN%20Bus%20security.pdf)<br>
+> - **DH Kang**, HS Kim, WK Jung, BI Kwak, ["Anomaly detection method of IVN using lightweight features based on Autoencoder"](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.04.28_Paper%5D%20Anomaly%20detection%20method%20of%20IVN%20using%20lightweight%20features%20based%20on%20Autoencoder.pdf), JCCI, Yeosu, Korea (Apr. 2023) - [Oral](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.04.28_Presentation%5D%20Anomaly%20detection%20method%20of%20IVN%20using%20lightweight%20features%20based%20on%20Autoencoder.pdf)<br>
 
 ■ Projects <br>
 - Apprentice-style undergraduate research student project - 자동차 보안 동향 및 취약점 분석, Hallym University, Korea (2023)  <br>
@@ -17,7 +17,7 @@
 - Management Information Capstone Design (shoes multi-shop website), Hallym Polytechnic University, Korea / Development of Design and Front-End (Aug. 2021 ~ Dec. 2021) <br>
 
 ■ Awards <br>
-- [Outstanding Paper Award, CISC-W'23, Korea Institute Of Information Security And Cryptology(KIISC)](https://github.com/heeyapro/heeyapro/blob/main/File/%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%ED%9A%8C%EC%9E%A5%EC%83%81.png) (Dec. 2023) <br>
+- [Outstanding Paper Award, CISC-W'23, Korea Institute Of Information Security And Cryptology(KIISC)](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.12.02_%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%ED%9A%8C%20%EC%9A%B0%EC%88%98%EB%85%BC%EB%AC%B8%EC%83%81%5D%20Implementation%20of%20Framework%20for%20Machine%20Learning-Based%20Network%20Intrusion%20Detection%20and%20Situational%20Analysis%20Solutions.pdf) (Dec. 2023) <br>
 - Excellence Prize, Gangwon SW Central University SW Festival, SW Center University Business Unit by Yonsei University MIRAE Campus, Kangwon National University, Hallym University (2023) <br>
 - [3rd Prize, Software Capstone Design, Hallym University](https://github.com/yinneu/signature) (June. 2023) <br>
 - 3rd Prize, GitHub Resume Contest Hackathon, Hallym University (Aug. 2022) <br>
