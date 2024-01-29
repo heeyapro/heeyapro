@@ -17,7 +17,7 @@
 - Management Information Capstone Design (shoes multi-shop website), Hallym Polytechnic University, Korea / Development of Design and Front-End (Aug. 2021 ~ Dec. 2021) <br>
 
 ■ Awards <br>
-- Outstanding Paper Award, CISC-W'23, Korea Institute Of Information Security And Cryptology(KIISC) (Dec. 2023) <br>
+- [Outstanding Paper Award, CISC-W'23, Korea Institute Of Information Security And Cryptology(KIISC)](https://github.com/heeyapro/heeyapro/blob/main/File/%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%ED%9A%8C%EC%9E%A5%EC%83%81.png) (Dec. 2023) <br>
 - Excellence Prize, Gangwon SW Central University SW Festival, SW Center University Business Unit by Yonsei University MIRAE Campus, Kangwon National University, Hallym University (2023) <br>
 - [3rd Prize, Software Capstone Design, Hallym University (June. 2023)](https://github.com/yinneu/signature) <br>
 - 3rd Prize, GitHub Resume Contest Hackathon, Hallym University (Aug. 2022) <br>
