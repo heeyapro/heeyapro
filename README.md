@@ -1,7 +1,7 @@
 ### DH Kang GitHub
 
 ■ Research Interests<br> 
-> - Network Security<br>
+> - Intrusion Detection. <br>
 > - In-Vehicle Network (IVN) traffic analysis and Intrusion Detection.<br>
 > - Driving Pattern Profiling and Anomaly Detection.<br> 
 
@@ -11,7 +11,7 @@
 > - **DH Kang**, HS Kim, WK Jung, BI Kwak, "Anomaly detection method of IVN using lightweight features based on Autoencoder", JCCI, (Apr. 2023) - [Paper](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.04.28_Paper%5D%20Anomaly%20detection%20method%20of%20IVN%20using%20lightweight%20features%20based%20on%20Autoencoder.pdf), [Oral](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.04.28_Presentation%5D%20Anomaly%20detection%20method%20of%20IVN%20using%20lightweight%20features%20based%20on%20Autoencoder.pdf)<br>
 
 ■ Projects <br>
-- Apprentice-style undergraduate research student project - 자동차 보안 동향 및 취약점 분석, Hallym University, 2023  <br>
+- Apprentice-style undergraduate research student project - 자동차 보안 동향 및 취약점 분석, 2023  <br>
 - Research on Digital Forensic Core Technology of Driving Agent Identification for Autonomous Driving Cars (자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구), National Research Foundation of Korea(한국연구재단 기초연구실, 공동연구), 2023  <br>
 - Software Capstone Design (Automated Security Solution Recommendation Site), Hallym University / Development of Design and AI (IDS) (Feb. 2023 ~ Jun. 2023)  <br>
 - Management Information Capstone Design (shoes multi-shop website), Hallym Polytechnic University / Development of Design and Front-End (Aug. 2021 ~ Dec. 2021) <br>
