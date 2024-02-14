@@ -1,9 +1,4 @@
 ### DH Kang GitHub
- 
-■ Research Interests<br> 
-> - Intrusion Detection. <br>  
-> - In-Vehicle Network (IVN) traffic analysis and Intrusion Detection.<br> 
-> - Driving Pattern Profiling and Anomaly Detection.<br> 
 
 ■ Domestic Conferences <br>
 > - **DH Kang**, YJ Kim, YR Yeon, BI Kwak, "Implementation of Framework for Machine Learning-Based Network Intrusion Detection and Situational Analysis Solutions", CISC-W'23, (Dec. 2023) - [Paper](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.12.02_Paper%5D%20Implementation%20of%20Framework%20for%20Machine%20Learning-Based%20Network%20Intrusion%20Detection%20and%20Situational%20Analysis%20Solutions.pdf), [Oral](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.12.02_Presentation%5D%20Implementation%20of%20Framework%20for%20Machine%20Learning-Based%20Network%20Intrusion%20Detection%20and%20Situational%20Analysis%20Solutions.pdf)<br>
