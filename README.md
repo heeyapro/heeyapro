@@ -1,5 +1,5 @@
 ### DH Kang GitHub
-   
+    
 ■ Domestic Conferences <br>  
 > - **DH Kang**, YJ Kim, YR Yeon, BI Kwak, "Implementation of Framework for Machine Learning-Based Network Intrusion Detection and Situational Analysis Solutions", CISC-W'23, (Dec. 2023) - [Paper](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.12.02_Paper%5D%20Implementation%20of%20Framework%20for%20Machine%20Learning-Based%20Network%20Intrusion%20Detection%20and%20Situational%20Analysis%20Solutions.pdf), [Oral](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.12.02_Presentation%5D%20Implementation%20of%20Framework%20for%20Machine%20Learning-Based%20Network%20Intrusion%20Detection%20and%20Situational%20Analysis%20Solutions.pdf)<br>
 > - HS Kim, **DH Kang**, BI Kwak, "Sequence and Time Interval-based intrusion detection and attack classification for CAN Bus security", KIISC, (Sep. 2023) - [Paper](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.09.08_Paper%5D%20Sequence%20and%20Time%20Interval-based%20intrusion%20detection%20and%20attack%20classification%20for%20CAN%20Bus%20security.pdf), [Poster](https://github.com/heeyapro/heeyapro/blob/main/File/%5B2023.09.08_Poster%5D%20Sequence%20and%20Time%20Interval-based%20intrusion%20detection%20and%20attack%20classification%20for%20CAN%20Bus%20security.pdf)<br>
