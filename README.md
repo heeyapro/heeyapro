@@ -1,4 +1,4 @@
-### DH Kang GitHub  
+### DH Kang GitHub   
  
 ■ Research Interests <br> 
 - Big Data Analysis and Anomaly Detection.
